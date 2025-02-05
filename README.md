@@ -80,7 +80,6 @@ The app provides two primary methods for loading data:
 *   **seaborn:** For statistical data visualization.
 *   **matplotlib:** For creating basic plots.
 *   **multipage_streamlit (or equivalent):** A library to implement multi-page navigation. Replace with the correct library name if required.
-## UML Diagram
 
 ## Further Information
 
