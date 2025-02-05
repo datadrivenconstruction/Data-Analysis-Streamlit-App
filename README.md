@@ -1,6 +1,6 @@
 # Revit Data Analysis Streamlit App
 
-This Streamlit application enables you to upload data, perform basic and complex analysis, and visualize your data. It provides flexibility in how data can be loaded (from Excel files or converted from Revit files), and offers multi-page functionality for different types of analysis.
+This Streamlit application enables you to upload Revit data, perform basic and complex analysis, and visualize your data from Revit project. It provides flexibility in how data can be loaded (from Excel files or converted from Revit files), and offers multi-page functionality for different types of analysis.
 
 [![](https://datadrivenconstruction.io/wp-content/uploads/2025/02/DataDrivenConstruction-Revit-data-analyse.jpg)](https://datadrivenconstruction.io/wp-content/uploads/2025/02/DataDrivenConstruction-Revit-data-analyse.jpg)
 
@@ -8,7 +8,7 @@ This Streamlit application enables you to upload data, perform basic and complex
 
 *   **Data Upload:**
     *   Supports uploading data from Excel (.xlsx) files.
-    *   Provides an option to convert data from Revit files (.rvt) using a DDC converter.
+    *   Provides an option to convert data from Revit files (.rvt) v2015-2025 using a DDC converter.
         *   The user must provide the path to the DDC converter folder (containing `RvtExporter.exe`) and the path to the Revit file.
 *   **Multi-Page Functionality:** The app uses a multi-page structure for better navigation and organization:
     *   **Upload Page:** Handles uploading data from Excel files or converting from Revit files. This is the initial page where data is loaded.
