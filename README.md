@@ -2,6 +2,8 @@
 
 This Streamlit application enables you to upload data, perform basic and complex analysis, and visualize your data. It provides flexibility in how data can be loaded (from Excel files or converted from Revit files), and offers multi-page functionality for different types of analysis.
 
+[![](https://datadrivenconstruction.io/wp-content/uploads/2025/02/DataDrivenConstruction-Revit-data-analyse.jpg)](https://datadrivenconstruction.io/wp-content/uploads/2025/02/DataDrivenConstruction-Revit-data-analyse.jpg)
+
 ## Key Features
 
 *   **Data Upload:**
